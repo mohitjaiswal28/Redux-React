@@ -1,5 +1,5 @@
 import React from "react";
-import { useSelector } from "react-redux";
+import { useSelector } from "Redux-React";
 import type { AppState } from "../store";
 import BookmarkItem from "./BookmarkItem";
 

@@ -1,5 +1,5 @@
 import React from "react";
-import { useDispatch } from "react-redux";
+import { useDispatch } from "Redux-React";
 import { removeBookmark } from "../redux/actions/BookmarkAction";
 import type { Bookmark } from "../redux/types/BookmarkType";
 import type { AppDispatch } from "../store";
